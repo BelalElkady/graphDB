@@ -1,0 +1,6 @@
+EDGE a b
+EDGE b c
+EDGE a c
+EDGE d e
+EDGE e f
+EDGE d f

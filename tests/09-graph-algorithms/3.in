@@ -1,0 +1,3 @@
+EDGE a b
+EDGE b c
+EDGE a c

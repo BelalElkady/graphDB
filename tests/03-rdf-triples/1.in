@@ -1,0 +1,4 @@
+TRIPLE alice knows bob
+TRIPLE alice knows carol
+TRIPLE bob age 30
+MATCH alice knows ?

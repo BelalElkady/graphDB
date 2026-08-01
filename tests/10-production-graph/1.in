@@ -1,0 +1,5 @@
+PATTERN a b
+PATTERN c d
+END
+LINK a b
+LINK c d

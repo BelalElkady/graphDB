@@ -1,0 +1,4 @@
+TRIPLE alice knows bob
+TRIPLE carol knows bob
+TRIPLE dave likes bob
+MATCH ? knows bob

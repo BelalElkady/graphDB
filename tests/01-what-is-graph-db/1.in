@@ -1,0 +1,5 @@
+EDGE a b
+EDGE a c
+EDGE b c
+COUNT
+OUT a

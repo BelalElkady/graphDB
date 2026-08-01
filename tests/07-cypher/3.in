@@ -1,0 +1,5 @@
+EDGE a b
+EDGE a c
+EDGE b d
+EDGE c d
+MATCH a

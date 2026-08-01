@@ -1,0 +1,50 @@
+{
+  "course": "build-graph-db",
+  "language": "cpp",
+  "language_id": 54,
+  "entrypoint": "main.cpp",
+  "version": 1,
+  "content_hash": "cec5a8ab69effeea",
+  "lessons": [
+    {
+      "slug": "what-is-graph-db",
+      "tests_hash": "b501d2590815"
+    },
+    {
+      "slug": "property-graph",
+      "tests_hash": "6e802017b4ed"
+    },
+    {
+      "slug": "rdf-triples",
+      "tests_hash": "ba3e51c3bb6a"
+    },
+    {
+      "slug": "adjacency",
+      "tests_hash": "5cf276de5b56"
+    },
+    {
+      "slug": "labels-indexes",
+      "tests_hash": "d964cc103e6b"
+    },
+    {
+      "slug": "storage-formats",
+      "tests_hash": "7ae82c96dd51"
+    },
+    {
+      "slug": "cypher",
+      "tests_hash": "a07edbd5db70"
+    },
+    {
+      "slug": "shortest-path",
+      "tests_hash": "af11b5c559e8"
+    },
+    {
+      "slug": "graph-algorithms",
+      "tests_hash": "2e57e605e094"
+    },
+    {
+      "slug": "production-graph",
+      "tests_hash": "7d8b886304ed"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+NODE alice name=Alice,age=30
+NODE bob name=Bob,age=25
+NODE carol name=Carol,age=30
+FILTER age=30

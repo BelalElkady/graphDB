@@ -1,0 +1,6 @@
+LABEL Person 1
+LABEL Person 2
+LABEL Company 3
+LABEL Person 1
+QUERY Person
+QUERY Company

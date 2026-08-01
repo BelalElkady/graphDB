@@ -1,0 +1,5 @@
+EDGE a b
+EDGE b c
+EDGE a d
+EDGE d c
+PATH a c
